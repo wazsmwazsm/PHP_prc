@@ -1,0 +1,627 @@
+[12-Jan-2015 08:49:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:49:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:49:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:49:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:50:14 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:50:14 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:50:14 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:50:14 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:50:19 UTC] PHP Notice:  用户提示性错误1 in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 17
+[12-Jan-2015 08:50:19 UTC] PHP Warning:  用户警告性错误2 in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 18
+[12-Jan-2015 08:50:19 UTC] PHP Warning:  年龄数据不符合要求！ in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 27
+[12-Jan-2015 08:50:19 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 32
+[12-Jan-2015 08:50:19 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 34
+[12-Jan-2015 08:50:19 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 34
+[12-Jan-2015 08:50:19 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\7trigger_error.php on line 36
+[12-Jan-2015 08:52:12 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:12 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:12 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:12 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:19 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:19 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:19 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:19 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:20 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:20 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:20 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:20 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:20 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:21 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:21 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:22 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:22 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:23 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:23 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:24 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:24 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:25 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:25 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:26 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:26 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21
+[12-Jan-2015 08:52:26 UTC] PHP Notice:  Undefined variable: var1 in C:\itcast\class\bj-php-34\day5\8error_display.php on line 17
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include(no-file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'no-file.php' for inclusion (include_path='.;C:\php\pear') in C:\itcast\class\bj-php-34\day5\8error_display.php on line 19
+[12-Jan-2015 08:52:26 UTC] PHP Fatal error:  Call to undefined function func1() in C:\itcast\class\bj-php-34\day5\8error_display.php on line 21

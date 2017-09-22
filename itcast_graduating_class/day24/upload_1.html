@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>文件上传表单</title>
+</head>
+<body>
+	<form action="upload_1.php" method="post" enctype="multipart/form-data">
+		字符串类型数据：<input type="text" name="title">
+		<br>
+		二进制类型数据：<input type="file" name="test"><br>
+		文件类型数据：<input type="file" name="pic[parent]"><br>
+		文件类型数据：<input type="file" name="pic[]"><br>
+		文件类型数据：<input type="file" name="pic[child]"><br>
+		<input type="submit" name="submit" value="提交">
+		
+
+	</form>
+</body>
+</html>
