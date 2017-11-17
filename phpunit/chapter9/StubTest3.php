@@ -11,11 +11,11 @@ class StubTest extends TestCase
         // 更详细的创建
         $stub = $this->createMock(SomeClass::class);
 
-        // 上桩
+        // 上桩 返回对桩件对象的引用
         $stub->method('doSomething')
              ->will($this->returnSelf());
 
-        // 现在调用 $stub->doSomething() 将返回 'foo'。
+        // $stub->doSomething() 返回 $stub
         $this->assertEquals($stub, $stub->doSomething());
     }
 
