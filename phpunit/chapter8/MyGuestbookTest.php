@@ -1,10 +1,11 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 use PHPUnit\Framework\TestCase;
-
+use PHPUnit\DbUnit\TestCaseTrait;
 
 class MyGuestbookTest extends TestCase
 {
+    use TestCaseTrait;
     /**
      * @return PHPUnit_Extensions_Database_DB_IDatabaseConnection
      */
@@ -20,23 +21,27 @@ class MyGuestbookTest extends TestCase
     */
     public function getDataSet()
     {
-        return new MyApp_DbUnit_ArrayDataSet(
-            [
-                'guestbook' => [
-                    [
-                        'id' => 1,
-                        'content' => 'Hello buddy!',
-                        'user' => 'joe',
-                        'created' => '2010-04-24 17:15:23'
-                    ],
-                    [
-                        'id' => 2,
-                        'content' => 'I like it!',
-                        'user' => null,
-                        'created' => '2010-04-26 12:14:20'
-                    ],
-                ],
-            ]
+        return $this->createXMLDataSet('myXmlFixture.xml');
+    }
+
+    // public function testCreateDataSet()
+    // {
+    //     $dataSet = $this->getConnection()->createDataSet();
+    // }
+
+    public function testGetRowCount()
+    {
+        $this->assertEquals(2, $this->getConnection()->getRowCount('guestbook'));
+    }
+
+    public function testQuery()
+    {
+        $queryTable = $this->getConnection()->createQueryTable('guestbook',
+          'SELECT id, content, user FROM guestbook'
         );
+        $expectedTable = $this->createXMLDataSet('expectedBook.xml')
+                       ->getTable("guestbook");
+
+        $this->assertTablesEqual($expectedTable, $queryTable);
     }
 }
