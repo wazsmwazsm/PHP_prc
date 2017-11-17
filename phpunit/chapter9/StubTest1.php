@@ -12,6 +12,7 @@ class StubTest extends TestCase
         $stub = $this->createMock(SomeClass::class);
 
         // 上桩
+        // 用 willReturn($value) 返回简单值。这个简短的语法相当于 will($this->returnValue($value))
         $stub->method('doSomething')->willReturn('foo');
 
         // 现在调用 $stub->doSomething() 将返回 'foo'。
