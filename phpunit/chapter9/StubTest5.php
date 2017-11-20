@@ -12,11 +12,15 @@ class StubTest extends TestCase
         $stub = $this->createMock(SomeClass::class);
 
         // 上桩
+        // 直接给出期望返回值的列表
         $stub->method('doSomething')
-             ->will($this->returnCallback('str_rot13'));
+             ->will($this->onConsecutiveCalls(2, 3, 5, 7));
 
-        // $stub->doSomething() 根据提供的参数返回不同的值。
-        $this->assertEquals('fbzrguvat', $stub->doSomething('something'));
+        // $stub->doSomething() 每次返回值都不同
+        $this->assertEquals(2, $stub->doSomething());
+        $this->assertEquals(3, $stub->doSomething());
+        $this->assertEquals(5, $stub->doSomething());
+        $this->assertEquals(7, $stub->doSomething());
     }
 
 }
