@@ -13,6 +13,7 @@ class SubjectTest extends TestCase
         // 仿件对象的作用就是解决有多个依赖时的测试问题
 
         // 为 Observer 类建立仿件对象，只模仿 update() 方法。
+        // 即确信 Observer 已经测试完毕，不需要再重复测试，直接硬编码
         $observer = $this->getMockBuilder(Observer::class)
                          ->setMethods(['update'])
                          ->getMock();
