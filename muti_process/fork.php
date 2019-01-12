@@ -1,4 +1,5 @@
 <?php
+/* 注意，此程序在 docker 里不能完整运行，docker 的进程管理和真实操作系统不一样 */
 
 // fork是创建了一个子进程，父进程和子进程 都从fork的位置开始向下继续执行，
 // 不同的是父进程执行过程中，得到的fork返回值为子进程 号，而子进程得到的是0。
@@ -15,6 +16,6 @@ if ($pid == -1) { // -1 失败
     // 获取当前进程的进程号
     $cpid = posix_getpid();
     cli_set_process_title("im sub process $cpid");
-    while(1);
+    sleep(5);
 }
 
