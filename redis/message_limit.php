@@ -12,16 +12,6 @@ function is_limited($phone)
     $time_limit = 600; // 10 分钟限制时段
     $key = 'expires:'. (string) $phone;
 
-    // 缓存是否存在
-    if ( ! $redis->exists($key)) { 
-        // 保存此次发送的过期时间
-        $value = [$now + $time_limit, ];
-        // 设置 redis 过期时间 time_limit， time_limit 时间内无更新的话舍弃掉这个缓存
-        $redis->setex($key, $time_limit, serialize($value)); 
-
-        return false;
-    } 
-
     // 获取缓存信息
     $value = unserialize($redis->get($key));
     
